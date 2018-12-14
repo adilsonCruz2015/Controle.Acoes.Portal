@@ -1,0 +1,5 @@
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.ServicoExterno\bin\Debug\Controle.Acoes.Portal.ServicoExterno.dll
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.ServicoExterno\bin\Debug\Controle.Acoes.Portal.ServicoExterno.pdb
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.ServicoExterno\obj\Debug\Controle.Acoes.Portal.ServicoExterno.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.ServicoExterno\obj\Debug\Controle.Acoes.Portal.ServicoExterno.dll
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.ServicoExterno\obj\Debug\Controle.Acoes.Portal.ServicoExterno.pdb

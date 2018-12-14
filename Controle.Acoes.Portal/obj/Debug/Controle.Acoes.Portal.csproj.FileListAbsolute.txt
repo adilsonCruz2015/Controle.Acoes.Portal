@@ -1,0 +1,2 @@
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal\obj\Debug\Controle.Acoes.Portal.csprojAssemblyReference.cache
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal\obj\Debug\Controle.Acoes.Portal.csproj.CoreCompileInputs.cache

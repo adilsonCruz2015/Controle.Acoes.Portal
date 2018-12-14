@@ -1,0 +1,5 @@
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Idc.SimpleInjector\bin\Debug\Controle.Acoes.Portal.Idc.SimpleInjector.dll
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Idc.SimpleInjector\bin\Debug\Controle.Acoes.Portal.Idc.SimpleInjector.pdb
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Idc.SimpleInjector\obj\Debug\Controle.Acoes.Portal.Idc.SimpleInjector.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Idc.SimpleInjector\obj\Debug\Controle.Acoes.Portal.Idc.SimpleInjector.dll
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Idc.SimpleInjector\obj\Debug\Controle.Acoes.Portal.Idc.SimpleInjector.pdb

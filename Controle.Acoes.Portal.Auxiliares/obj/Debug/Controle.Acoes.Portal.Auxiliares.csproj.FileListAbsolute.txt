@@ -1,0 +1,7 @@
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Auxiliares\bin\Debug\Controle.Acoes.Portal.Auxiliares.dll
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Auxiliares\bin\Debug\Controle.Acoes.Portal.Auxiliares.pdb
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Auxiliares\obj\Debug\Controle.Acoes.Portal.Auxiliares.Mensagens.ValidacaoMsg.resources
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Auxiliares\obj\Debug\Controle.Acoes.Portal.Auxiliares.csproj.GenerateResource.cache
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Auxiliares\obj\Debug\Controle.Acoes.Portal.Auxiliares.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Auxiliares\obj\Debug\Controle.Acoes.Portal.Auxiliares.dll
+D:\Desenvolvimento\C#\Controle.Acoes.Portal\Controle.Acoes.Portal.Auxiliares\obj\Debug\Controle.Acoes.Portal.Auxiliares.pdb
